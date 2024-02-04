@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is the backend branch
+=======
+This is my text file
+>>>>>>> main
